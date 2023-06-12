@@ -1,0 +1,17 @@
+.privacy-policy {
+    margin: 50px auto;
+    overflow: scroll;
+    padding: 25px;
+    border: 1px solid white;
+    background-color: green;
+    color: white;
+    line-height: 2.0;
+}
+
+.privacy-policy__item {
+    padding-bottom: 30px;
+}
+
+.privacy-policy__item2 {
+    padding-bottom: 0px;
+}
